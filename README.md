@@ -27,7 +27,7 @@
     <img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />    
   </div>
   <div class="MYSQL">
-    <img style="width:30px;" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />    
+    <img style="width:50px;" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />    
   </div>
  </div>
 
