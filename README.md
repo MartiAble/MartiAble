@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <div id="badges">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-   <a href="yousoro-omedeto.ru">
+   <a href="https://yousoro-omedeto.ru" target="_blank">
     <img src="https://img.shields.io/badge/ZeHiRo-hub-red?style=for-the-badge&logo=ZeHiRo-hub&logoColor=white" alt="Web Badge"/>
     </a>
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
