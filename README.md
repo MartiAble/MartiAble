@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wb47qrlc1jfzo614hw8pf2dbcbm9proqv3f4vjan&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <img style="width: 400px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wb47qrlc1jfzo614hw8pf2dbcbm9proqv3f4vjan&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=58A6FFFF&width=435&lines=Hi+there,+I'm+Danil+(%E3%82%B7_+_)%E3%82%B7)](https://git.io/typing-svg)
