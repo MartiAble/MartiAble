@@ -19,7 +19,7 @@
 
 
 
-<div id="header" align="center" style="width: 100%">
+<div id="header" align="center" style="width: 100%; margin-left: 100px">
     <img src="http://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=ff8d0a&width=435&lines=Y+O+U+S+O+R+O+!" alt="Typing SVG">
 </div>
 
