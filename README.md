@@ -5,7 +5,7 @@
 ## Skills 
 
 <div class="badges">
-  <div class="HTML">
+  <div class="HTML" style="display: inline !important">
     <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> 
       <div class="stars">
         <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> 
