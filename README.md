@@ -15,9 +15,9 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <a href="https://git.io/typing-svg">
-    <img src="http://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=ff8d0a&width=435&lines=Y+O+U+S+O+R+O+!" alt="Typing SVG">
-  </a>
+ 
+    <img src="http://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=ff8d0a&width=435&lines=Y+O+U+S+O+R+O+!">
+
 </div>
 
 
