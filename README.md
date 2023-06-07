@@ -24,14 +24,14 @@
     <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> &nbsp &nbsp
         <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> 
         <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> 
-        <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" />  <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" /> 
+        <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" />  <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" />
         <img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" />
   </div>
   <div class="JS">
     <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp &nbsp
         <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> 
         <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> 
-        <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" />  <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" /> 
+        <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" />  <img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" /><img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" /> 
         <img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" />
   </div>
   <div class="BASH">
