@@ -1,14 +1,11 @@
 <div id="header" align="center">
-  
-  <img src="https://yousoro-omedeto.ru/img/standard.gif"/>
-  
+  <a href="https://yousoro-omedeto.ru">
+    <img src="https://yousoro-omedeto.ru/img/standard.gif"/>
+  </a>
   <div id="badges">
     <a href="https://t.me/yousoro_omedeto" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://yousoro-omedeto.ru" target="_blank">
-      <img src="https://img.shields.io/badge/ZeHiRo-red?style=for-the-badge&logo=web&logoColor=white" alt="Web Badge"/>
-    </a> 
     <a href="https://vk.com/yousoro_omedeto" target="_blank">
       <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Twitter Badge"/>
     </a>
