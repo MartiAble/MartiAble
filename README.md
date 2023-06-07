@@ -9,8 +9,8 @@
     <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> &nbsp &nbsp
         <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> 
         <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> 
-        <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" />  <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" /> 
-        <img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" />
+        <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" />  <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" />
+        <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" />
    
   </div> 
   <div class="CSS">
