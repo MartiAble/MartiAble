@@ -1,20 +1,32 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=58A6FFFF&width=435&lines=Hi+there,+I'm+Danil+(%E3%82%B7_+_)%E3%82%B7)](https://git.io/typing-svg)
 ## Skills 
 
-<img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> 
-<img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
-<img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
-<img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-<img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> 
-<img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-<img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /> 
-<img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />     <div class="col-7">
-                                                <br><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i>
-                                                <br><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="far fa-star"></i>
-                                                <br><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>
-                                                <br><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>
-                                                <br><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>
-                                            </div>
+<div class="badges">
+  <div class="HTML">
+    <img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> 
+  </div>
+  <div class="CSS">
+    <img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
+  </div>
+  <div class="PHP">
+    <img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
+  </div>
+  <div class="JS">
+    <img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+  </div>
+  <div class="BASH">
+    <img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> 
+  </div>
+  <div class="GIT">
+    <img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+  </div>
+  <div class="DOCKER">
+    <img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /> 
+  </div>
+  <div class="POSTGRES">
+    <img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />    
+  </div>
+ </div>
 
 <br>
 <br>
