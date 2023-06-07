@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://vk.com/yousoro_omedeto" target="_blank">
-      <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/VK-4682B4?style=for-the-badge&logo=VK&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://t.me/yousoro_cases" target="_blank">
       <img src="https://img.shields.io/badge/CASES-EE82EE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
