@@ -1,4 +1,9 @@
+## Links
+
+<a href="yousoro-omedeto.ru">My website</a>
+
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=58A6FFFF&width=435&lines=Hi+there,+I'm+Danil+(%E3%82%B7_+_)%E3%82%B7)](https://git.io/typing-svg)
+
 ## Skills 
 
 <div class="badges">
