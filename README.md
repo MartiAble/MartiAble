@@ -1,8 +1,6 @@
 
-
-
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/embed/qgQUggAC3Pfv687qPC)" width="100"/>
 </div>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=58A6FFFF&width=435&lines=Hi+there,+I'm+Danil+(%E3%82%B7_+_)%E3%82%B7)](https://git.io/typing-svg)
