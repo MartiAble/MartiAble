@@ -19,7 +19,11 @@
 
 
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=ff8d0a&width=435&lines=Y+O+U+S+O+R+O+!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="http://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=ff8d0a&width=435&lines=Y+O+U+S+O+R+O+!" alt="Typing SVG">
+  </a>
+</p>
 
 
 ### :woman_technologist: About Me :
