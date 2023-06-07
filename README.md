@@ -37,8 +37,8 @@
   <div class="BASH">
     <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />  &nbsp &nbsp
         <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> 
-        <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> 
-        <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" />  <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" /> 
+        <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" />
+        <img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" /> <img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" /> <img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" />
         <img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" />
   </div>
   <div class="GIT">
