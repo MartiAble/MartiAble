@@ -8,7 +8,13 @@
 <img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> 
 <img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
 <img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /> 
-<img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+<img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />     <div class="col-7">
+                                                <br><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i>
+                                                <br><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="far fa-star"></i>
+                                                <br><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>
+                                                <br><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>
+                                                <br><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="fas xYll fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>
+                                            </div>
 
 <br>
 <br>
