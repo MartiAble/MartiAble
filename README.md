@@ -4,7 +4,7 @@
    <a href="https://yousoro-omedeto.ru" target="_blank">
     <img src="https://img.shields.io/badge/ZeHiRo-hub-red?style=for-the-badge&logo=ZeHiRo-hub&logoColor=white" alt="Web Badge"/>
     </a>
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Twitter Badge"/>
 </div>
 </div>
 
