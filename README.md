@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://yousoro-omedeto.ru/img/standard.gif" alt="yousoro-omedeto.ru"/>
+  
+  <img src="https://yousoro-omedeto.ru/img/standard.gif"/>
+  
   <div id="badges">
     <a href="https://t.me/yousoro_omedeto" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
