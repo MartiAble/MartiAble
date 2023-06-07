@@ -14,7 +14,7 @@
    
   </div> 
   <div class="CSS">
-    <img alt="CSS" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> &nbsp &nbsp
+    <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> &nbsp &nbsp
         <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> 
         <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> 
         <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" />  <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" /> 
@@ -60,8 +60,8 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartiAble&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-          
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MartiAble&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ## Links
 
 <a href="yousoro-omedeto.ru" style="font-size: 16pt; color: purple;">My website</a> <br>
