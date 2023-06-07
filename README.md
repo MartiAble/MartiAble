@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/VK-4682B4?style=for-the-badge&logo=VK&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://t.me/yousoro_cases" target="_blank">
-      <img src="https://img.shields.io/badge/CASES-EE82EE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/CASES-9370DB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=MartiAble&style=flat-square&color=blue" alt=""/>
