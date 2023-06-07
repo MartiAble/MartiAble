@@ -20,7 +20,7 @@
 
 
 <div id="header" align="center">
-    <img src="http://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=ff8d0a&width=435&lines=Y+O+U+S+O+R+O+!" alt="Typing SVG">
+    <img src="http://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=ff8d0a&width=435&lines=Y+O+U+S+O+R+O+!" alt="Typing SVG" width="1024">
 </div>
 
 
