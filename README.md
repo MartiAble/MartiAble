@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <div id="badges">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/> <br>
    <a href="https://yousoro-omedeto.ru" target="_blank">
     <img src="https://img.shields.io/badge/ZeHiRo-hub-red?style=for-the-badge&logo=web&logoColor=white" alt="Web Badge"/>
-    </a>
+    </a> <br>
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Twitter Badge"/>
 </div>
 </div>
