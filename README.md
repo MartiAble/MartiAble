@@ -6,12 +6,12 @@
 
 <div class="badges">
   <div class="HTML" style="display: inline !important">
-    <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> 
+    <img style="width:40px; padding-right: 5em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> 
         <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> 
         <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> 
         <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" />  <img style="width:30px;" src="https://www.svgrepo.com/show/513354/star.svg" /> <img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" /> 
         <img style="width:30px;" src="https://yousoro-omedeto.ru/img/svg/star-svgrepo-com.svg" />
-    
+   
   </div> 
   <div class="CSS">
     <img style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
