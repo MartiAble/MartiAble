@@ -1,6 +1,4 @@
-## Links
 
-<a href="yousoro-omedeto.ru">My website</a>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=58A6FFFF&width=435&lines=Hi+there,+I'm+Danil+(%E3%82%B7_+_)%E3%82%B7)](https://git.io/typing-svg)
 
@@ -41,7 +39,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartiAble&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
           
+## Links
 
+<a href="yousoro-omedeto.ru" style="font-size: 16pt; color: purple;">My website</a>
+<a href="t.me/yousoro_omedeto" style="font-size: 16pt; color: purple;">Telegram</a>
+<a href="vk.com/yousoro_omedeto" style="font-size: 16pt; color: purple;">VK</a>
 <!--
 **MartiAble/MartiAble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
