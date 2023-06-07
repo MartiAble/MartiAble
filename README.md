@@ -41,8 +41,8 @@
           
 ## Links
 
-<a href="yousoro-omedeto.ru" style="font-size: 16pt; color: purple;">My website</a>
-<a href="t.me/yousoro_omedeto" style="font-size: 16pt; color: purple;">Telegram</a>
+<a href="yousoro-omedeto.ru" style="font-size: 16pt; color: purple;">My website</a> <br>
+<a href="t.me/yousoro_omedeto" style="font-size: 16pt; color: purple;">Telegram</a> <br>
 <a href="vk.com/yousoro_omedeto" style="font-size: 16pt; color: purple;">VK</a>
 <!--
 **MartiAble/MartiAble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
