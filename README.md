@@ -93,11 +93,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartiAble&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Links
 
-<a href="yousoro-omedeto.ru" style="font-size: 16pt; color: purple;">My website</a> <br>
-<a href="t.me/yousoro_omedeto" style="font-size: 16pt; color: purple;">Telegram</a> <br>
-<a href="vk.com/yousoro_omedeto" style="font-size: 16pt; color: purple;">VK</a>
 <!--
 **MartiAble/MartiAble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
