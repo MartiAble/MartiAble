@@ -9,6 +9,9 @@
     <a href="https://vk.com/yousoro_omedeto" target="_blank">
       <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="https://t.me/yousoro_cases" target="_blank">
+      <img src="https://img.shields.io/badge/CASES-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=MartiAble&style=flat-square&color=blue" alt=""/>
   <h1>
